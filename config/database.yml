@@ -51,5 +51,5 @@ test:
 production:
   <<: *default
   database: capistrano_tutorial_production
-  username: capistrano_tutorial
-  password: <%= ENV['CAPISTRANO_TUTORIAL_DATABASE_PASSWORD'] %>
+  username: admin
+  password: password

@@ -1,0 +1,2 @@
+production:
+  secret_key_base: bec7329af4f77a6d9e7afbb35ff02e5b14f90c88e8a5e60b0b7f8bd249aed4b2387f5ef097acd8dc3c7f24ea231ee44d0b2223da8678d80e84dfa0cd3921d07a
